@@ -1,0 +1,8 @@
+test_speed.py
+test_model.py
+pb_mc.py
+minimax_backup.py
+create_py_icon.py
+create_blank_board.py
+/__pycache__
+/.idea
