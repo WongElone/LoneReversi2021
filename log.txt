@@ -1,3 +1,0 @@
-later create new class which is used for loading model and predicting move
-basically everythin about using model, and then call it in reversi_pygame.py
-such that we dont have to import tensorflow in pygame
