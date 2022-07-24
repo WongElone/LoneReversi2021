@@ -5,5 +5,5 @@ minimax_backup.py
 create_py_icon.py
 create_blank_board.py
 log.txt
-/__pycache__
-/.idea
+__pycache__/
+.idea/
